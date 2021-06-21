@@ -1,0 +1,25 @@
+.landing-page{
+  background-image: url("img/h_img.jpg");
+}
+h1{
+  color: black;
+  font-size: medium;
+  font-style: oblique;
+  text-align: center;
+}
+.services{
+  background-image: url("img/c_image.jpg");
+}
+.input form{
+  background-image: url("img/s_image.jpg");
+}
+.Design-p1{
+  display:none;
+
+}
+.Development-p2{
+  display: none;
+}
+.Product-management{
+display: none;
+}
